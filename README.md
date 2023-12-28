@@ -19,9 +19,11 @@
 * **Complete Solaris Pipeline**
   * 6 Look HDAs
   * 3 Render HDAs
-  * 5 Scene Management HDAs
+  * 5 Scene Management HDAs  
 * **Animation/VFX Pipeline Interface**
-  * Qt Interface
+  * Shot Management
+  * Asset Management
+  * Rendering
 
 ## 🔧 &nbsp;Skills
 <p align="center">
