@@ -25,14 +25,12 @@
   * Asset Management
   * Rendering
 
-## 🔧 &nbsp;Skills
+## ⚙️ &nbsp;Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,linux,java,lua,bash,vim,git,docker,github,md&perline=14" />
   </a>
 </p>
-
-## ⚙️ &nbsp;GitHub Stats
 <p align="center">
 <a href="https://github.com/bluejamm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkerBritt&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
