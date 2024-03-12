@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Parker </h1>
+<h1 align="center">Parker Britt</h1>
 
 <p>
 <div align="center">
@@ -35,8 +35,8 @@
 ## ⚙️ &nbsp;GitHub Stats
 <p align="center">
 <a href="https://github.com/bluejamm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluejamm&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bluejamm&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkerBritt&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ParkerBritt&theme=tokyonight&hide_border=true"/>
 </a>
 </p>
 
