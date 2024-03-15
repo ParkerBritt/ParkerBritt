@@ -13,17 +13,19 @@
 ## 🎥 &nbsp;About Me
 
 * **Houdini and Pipeline TD**
-* **Studying Visual Effects and 3D Animation** at the University of Hertfordshire
+* **Studying Visual Effects and 3D Animation** Final year at the University of Hertfordshire
 
 ### &nbsp;Currently Working On
+* **Rebirth**
+  * VFX Degree Film
 * **Complete Solaris Pipeline**
-  * 6 Look HDAs
-  * 3 Render HDAs
-  * 5 Scene Management HDAs  
-* **Animation/VFX Pipeline Interface**
-  * Shot Management
-  * Asset Management
-  * Rendering
+  * 18 Look HDAs, Render HDAs, and Scene Management HDAs
+* **[Cog](https://github.com/parkerbritt/cog)**
+  * VFX/animation pipeline interface
+* **[Houdini Clipboard](https://github.com/parkerbritt/houdini-clipboard-io)**
+  * Python module for creating and modifying Houdini clipboard items in external programs
+* **[Perforce Helper Functions](https://github.com/parkerbritt/perforce-helpers)**
+  * A collection of helper functions designed to simplify the use of Perforce P4 for version control.
 
 ## ⚙️ &nbsp;Skills
 <p align="center">
