@@ -1,4 +1,4 @@
-****<h1 align="center">Parker Britt</h1>
+<h1 align="center">Parker Britt</h1>
 
 <p>
 <div align="center">
