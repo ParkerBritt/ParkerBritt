@@ -1,11 +1,10 @@
-<h1 align="center">Parker Britt</h1>
+****<h1 align="center">Parker Britt</h1>
 
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=FF4713&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Rocky-10B981?style=for-the-badge&logo=rockylinux&logoColor=10B981&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=1793D1&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=282828">
 
 </div>
 </p>
