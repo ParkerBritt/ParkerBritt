@@ -10,24 +10,22 @@
 </div>
 </p>
 
-## 🎥 &nbsp;About Me
+## 🎥 About Me
 
 * **Houdini and Pipeline TD**
-* **Studying Visual Effects and 3D Animation** Final year at the University of Hertfordshire
+* **VFX Student** in between BA and MSc
 
-### &nbsp;Currently Working On
-* **Rebirth**
-  * VFX Degree Film
-* **Complete Solaris Pipeline**
-  * 18 Look HDAs, Render HDAs, and Scene Management HDAs
+### 🔧 Currently Working On
+* **[C++ Experiments](https://github.com/ParkerBritt/cpp_experiments)**
+  *  A collection of C++ programs for the purpose of learning and personal exploration
+* **[Houdini Clipboard](https://github.com/parkerbritt/houdini-clipboard-io)**
+  * Python package for creating and modifying Houdini clipboard items in external programs
+
+## ⚙️ Projects
 * **[Cog](https://github.com/parkerbritt/cog)**
   * VFX/animation pipeline interface
-* **[Houdini Clipboard](https://github.com/parkerbritt/houdini-clipboard-io)**
-  * Python module for creating and modifying Houdini clipboard items in external programs
-* **[Perforce Helper Functions](https://github.com/parkerbritt/perforce-helpers)**
-  * A collection of helper functions designed to simplify the use of Perforce P4 for version control.
-
-## ⚙️ &nbsp;Skills
+ 
+## 🧰 Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,linux,java,lua,bash,vim,git,docker,github,md&perline=14" />
