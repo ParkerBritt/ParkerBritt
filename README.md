@@ -1,38 +1,30 @@
 <h1 align="center">Parker Britt</h1>
 
-<p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=FF4713&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=282828">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=282828">
 
 </div>
-</p>
 
 ## 🎥 About Me
 
 * **Houdini and Pipeline TD**
 * **VFX Student** in between BA and MSc
 
-### 🔧 Currently Working On
-* **[C++ Experiments](https://github.com/ParkerBritt/cpp_experiments)**
-  *  A collection of C++ programs for the purpose of learning and personal exploration
-* **[Houdini Clipboard](https://github.com/parkerbritt/houdini-clipboard-io)**
-  * Python package for creating and modifying Houdini clipboard items in external programs
+## 🔧 Currently Working On
+<div>
+  <a href="https://github.com/ParkerBritt/cpp_experiments"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=cpp_experiments&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+  <a href="https://github.com/ParkerBritt/houdini-clipboard-io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=houdini-clipboard-io&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+</div>
 
-## ⚙️ Projects
-* **[Cog](https://github.com/parkerbritt/cog)**
-  * VFX/animation pipeline interface
+## ⚙️ Previous Projects
+<div>
+  <a href="https://github.com/ParkerBritt/cog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=cog&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+</div>
  
-## 🧰 Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,linux,java,lua,bash,vim,git,docker,github,md&perline=14" />
-  </a>
-</p>
-<p align="center">
-<a href="https://github.com/ParkerBritt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkerBritt&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ParkerBritt&theme=tokyonight&hide_border=true"/>
-</a>
-</p>
+## 📊 Stats
+<div>
+    <a href="https://github.com/parkerbritt"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ParkerBritt&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+    <a href="https://github.com/parkerbritt"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkerBritt&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&border_radius=20&hide_title"/></a>
+</div>
