@@ -11,23 +11,23 @@
 ## 🎥 About Me
 
 * **Houdini and Pipeline TD**
-* **VFX Student** in between BA and MSc
+* Studying **MSc in VFX** at Bournemouth University
 
 ## 🔧 Currently Working On
 <div>
-  <a href="https://github.com/ParkerBritt/cpp_experiments"><img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=cpp_experiments&theme=tokyonight&hide_border=true&border_radius=20"/></a>
-  <a href="https://github.com/ParkerBritt/tuifi"><img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=tuifi&theme=tokyonight&hide_border=true&border_radius=20"/></a>
-  <a href="https://github.com/ParkerBritt/website"><img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=website&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+  <a href="https://github.com/ParkerBritt/tuifi"><img align="center" width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=tuifi&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+  <a href="https://github.com/ParkerBritt/website"><img align="center" width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=website&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+  <a href="https://github.com/ParkerBritt/cpp_experiments"><img align="center" width="500em"src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=cpp_experiments&theme=tokyonight&hide_border=true&border_radius=20"/></a>
 </div>
 
 ## ⚙️ Previous Projects
 <div>
-  <a href="https://github.com/ParkerBritt/cog"><img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=cog&theme=tokyonight&hide_border=true&border_radius=20"/></a>
-  <a href="https://www.therookies.co/entries/23262"><img height="130em" src="https://github.com/user-attachments/assets/954862f6-112f-4084-859b-66e324a8b6a7"/></a>
+  <a href="https://github.com/ParkerBritt/cog"><img align="center" width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=cog&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+  <a href="https://www.therookies.co/entries/23262"><img align="center" width="500em" src="https://github.com/user-attachments/assets/954862f6-112f-4084-859b-66e324a8b6a7"/></a>
 </div>
  
 ## 📊 Stats
 <div>
-    <a href="https://github.com/ParkerBritt?tab=repositories"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ParkerBritt&theme=tokyonight&hide_border=true&border_radius=20"/></a>
-    <a href="https://github.com/ParkerBritt?tab=repositories"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkerBritt&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&border_radius=20&hide_title"/></a>
+    <a href="https://github.com/ParkerBritt?tab=repositories"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ParkerBritt&theme=tokyonight&hide_border=true&border_radius=20&card_width=540em"/></a>
+    <a href="https://github.com/ParkerBritt?tab=repositories"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkerBritt&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&border_radius=20&hide_title&card_width=460em"/></a>
 </div>
