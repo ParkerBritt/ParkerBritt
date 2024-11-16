@@ -15,14 +15,15 @@
 
 ## 🔧 Currently Working On
 <div>
-  <a href="https://github.com/ParkerBritt/cpp_experiments"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=cpp_experiments&theme=tokyonight&hide_border=true&border_radius=20"/></a>
-  <a href="https://github.com/ParkerBritt/tuifi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=tuifi&theme=tokyonight&hide_border=true&border_radius=20"/></a>
-  <a href="https://github.com/ParkerBritt/website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=website&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+  <a href="https://github.com/ParkerBritt/cpp_experiments"><img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=cpp_experiments&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+  <a href="https://github.com/ParkerBritt/tuifi"><img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=tuifi&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+  <a href="https://github.com/ParkerBritt/website"><img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=website&theme=tokyonight&hide_border=true&border_radius=20"/></a>
 </div>
 
 ## ⚙️ Previous Projects
 <div>
-  <a href="https://github.com/ParkerBritt/cog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=cog&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+  <a href="https://github.com/ParkerBritt/cog"><img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=cog&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+  <a href="https://www.therookies.co/entries/23262"><img height="130em" src="https://github.com/user-attachments/assets/954862f6-112f-4084-859b-66e324a8b6a7"/></a>
 </div>
  
 ## 📊 Stats
