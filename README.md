@@ -14,7 +14,7 @@
   <h3>Studying MSc in VFX at Bournemouth University</h3>
 </div>
 
-## 🔧 Currently Working On
+## 💻 Currently Working On
 <div>
   <a href="https://github.com/ParkerBritt/tuifi"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=tuifi&theme=tokyonight&hide_border=true&border_radius=20"/></a>
   <a href="https://github.com/ParkerBritt/website"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=website&theme=tokyonight&hide_border=true&border_radius=20"/></a>
@@ -29,7 +29,7 @@
   <a href="https://github.com/ParkerBritt/cog"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=cog&theme=tokyonight&hide_border=true&border_radius=20"/></a>
 </div>
 
-## 📊 Stats
+## 💾 Stats
 <div>
     <a href="https://github.com/ParkerBritt?tab=repositories"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ParkerBritt&theme=tokyonight&hide_border=true&border_radius=20&card_width=455em"/></a>
     <a href="https://github.com/ParkerBritt?tab=repositories"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkerBritt&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&border_radius=20&hide_title&card_width=386em"/></a>
