@@ -10,8 +10,8 @@
 
 ## 🎥 About Me
 <div>
-  <h3>Houdini & Pipeline TD</h3>
-  <h3>Studying MSc in VFX at Bournemouth University</h3>
+  <p><b>Houdini & Pipeline TD</b></p>
+  <p><b>Studying MSc in VFX at Bournemouth University</b></p>
 </div>
 
 ## 💻 Currently Working On
