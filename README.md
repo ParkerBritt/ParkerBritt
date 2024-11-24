@@ -23,9 +23,8 @@
 
 ## ⚙️ Previous Projects
 <div>
-  <a href="https://www.therookies.co/entries/28123"><img align="center" width="421em" src="https://github.com/user-attachments/assets/72f84b42-7172-4f17-9c58-b48afa0ca2d7"/></a>
-  <a href="https://www.therookies.co/entries/23262"><img align="center" width="421em" src="https://github.com/user-attachments/assets/954862f6-112f-4084-859b-66e324a8b6a7"/></a>
-  <br><br>
+  <a href="https://www.therookies.co/entries/28123"><img align="center" width="421em" src="https://github.com/user-attachments/assets/0c0b427b-b0b9-41fe-9e90-f3af80012890"/></a>
+  <a href="https://www.therookies.co/entries/23262"><img align="center" width="421em" src="https://github.com/user-attachments/assets/94511a8f-9839-4dbf-adb4-63fc32ed526c"/></a>
   <a href="https://github.com/ParkerBritt/cog"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=cog&theme=tokyonight&hide_border=true&border_radius=20"/></a>
 </div>
 
