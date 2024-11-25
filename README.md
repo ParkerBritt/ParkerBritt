@@ -16,7 +16,6 @@
 
 ## 💻 Currently Working On
 <div>
-  <a href="https://github.com/ParkerBritt/tuifi"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=tuifi&theme=tokyonight&hide_border=true&border_radius=20"/></a>
   <a href="https://github.com/ParkerBritt/website"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=website&theme=tokyonight&hide_border=true&border_radius=20"/></a>
   <a href="https://github.com/ParkerBritt/cpp_experiments"><img align="center" width="421em"src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=cpp_experiments&theme=tokyonight&hide_border=true&border_radius=20"/></a>
 </div>
