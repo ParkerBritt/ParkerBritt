@@ -11,13 +11,12 @@
 ## 🎥 About Me
 <div>
   <p><b>Houdini & Pipeline TD<br>
-  Studying MSc in VFX at Bournemouth University</b></p>
+  Studying MSc in 3D Animation and VFX at Bournemouth University</b></p>
 </div>
 
 ## 💻 Currently Working On
 <div>
-  <p><b>Focusing on master's assignments</b></p>
-  <a href="https://github.com/ParkerBritt/maya-usd-export"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=maya-usd-export&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+  <a href="https://github.com/ParkerBritt/houdini-environment-builder"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=houdini-environment-builder&theme=tokyonight&hide_border=true&border_radius=20"/></a>
   <a href="https://github.com/ParkerBritt/website"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=website&theme=tokyonight&hide_border=true&border_radius=20"/></a>
 </div>
 
