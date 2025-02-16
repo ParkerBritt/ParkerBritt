@@ -9,13 +9,13 @@
 </div>
 
 ## 🎥 About Me
-<div>
-  &nbsp;&nbsp;&nbsp;&nbsp;I am a <strong>Houdini TD</strong> pursuing my master's at Bournemouth University,<br>
-  specializing in <strong>procedural effects, software development,</strong> and <strong>DCC tool creation</strong>.<br>
+<div align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;I am a <strong>Houdini TD</strong> pursuing my master's degree at Bournemouth University,
+  specializing in <strong>procedural effects, software development,</strong> and <strong>DCC tool creation</strong>.
   My work focuses on developing technical solutions and efficient pipelines for VFX production.<br><br>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;Beyond VFX, I have a strong interest in open-source software and Linux,<br>
-  regularly exploring technologies that contribute to both my professional and personal projects.<br>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;Beyond VFX, I have a strong interest in open-source software and Linux,
+  regularly exploring technologies that contribute to both my professional and personal projects.
   I appreciate the collaborative nature of open-source communities and their role in advancing technical development.
 </div>
 
