@@ -10,7 +10,7 @@
 
 ## 🎥 About Me
 <div align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;I am a <strong>Houdini TD</strong> pursuing my master's degree at Bournemouth University,
+  &nbsp;&nbsp;&nbsp;&nbsp;I am a <strong>Houdini TD</strong> pursuing my master's of science at Bournemouth University,
   specializing in <strong>procedural effects, software development,</strong> and <strong>DCC tool creation</strong>.
   My work focuses on developing technical solutions and efficient pipelines for VFX production.<br><br>
 
