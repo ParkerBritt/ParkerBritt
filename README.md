@@ -1,10 +1,10 @@
 <h1 align="center">Parker Britt</h1>
 
 <div align="center">
-  <a href="https://github.com/search?q=owner%3AParkerBritt+topic%3Ahoudini&type=repositories"><img src="https://img.shields.io/badge/-Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=FF4713&labelColor=282828"></a>
-  <a href="https://github.com/ParkerBritt?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=282828"></a>
-  <a href="https://github.com/ParkerBritt?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=282828"></a>
-  <a href="https://github.com/ParkerBritt/dotfiles"><img src="https://img.shields.io/badge/-Linux-10B981?style=for-the-badge&logo=linux&logoColor=10B981&labelColor=282828"></a>
+  <a href="https://github.com/search?q=owner%3AParkerBritt+topic%3Ahoudini&type=repositories"><img src="https://parkerbritt.com/badge?label=houdini&icon=houdini&color=FF4713"></a>
+  <a href="https://github.com/ParkerBritt?tab=repositories&q=&type=&language=python&sort="><img src="https://parkerbritt.com/badge?label=python&icon=python&color=3776AB"></a>
+  <a href="https://github.com/ParkerBritt?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://parkerbritt.com/badge?label=C%2B%2B&icon=cpp&color=00599C"></a>
+  <a href="https://github.com/ParkerBritt/dotfiles"><img src="https://parkerbritt.com/badge?label=linux&icon=linux&color=10B981"></a>
 
 </div>
 
