@@ -13,7 +13,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;I am a <strong>Houdini TD</strong> pursuing my master's of science at Bournemouth University,
   specializing in <strong>procedural effects, software development,</strong> and <strong>DCC tool creation.</strong><br><br>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;Beyond VFX, I have a strong interest in open-source software and Linux,
+  &nbsp;&nbsp;&nbsp;&nbsp;Beyond VFX, I have a strong interest in open-source software and [Linux](https://github.com/ParkerBritt/dotfiles),
   regularly exploring technologies that contribute to both my professional and personal projects.
 </div>
 
