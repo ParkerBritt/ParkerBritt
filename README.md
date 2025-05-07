@@ -19,7 +19,7 @@
 
 ## 💻 Currently Working On
 <div>
-  <a href="https://github.com/ParkerBritt/website"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=website&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+
   <a href="https://github.com/ParkerBritt/maya-usd-export"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=maya-usd-export&theme=tokyonight&hide_border=true&border_radius=20"/></a>
   <a href="https://github.com/ParkerBritt/renderman-ocean"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=renderman-ocean&theme=tokyonight&hide_border=true&border_radius=20"/></a>
   <a href="https://github.com/ParkerBritt/opengl-simulation"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=opengl-simulation&theme=tokyonight&hide_border=true&border_radius=20"/></a>
