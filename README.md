@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/search?q=owner%3AParkerBritt+topic%3Ahoudini&type=repositories"><img src="https://parkerbritt.com/badge?label=houdini&icon=houdini&color=FF4713"></a>
   <a href="https://github.com/ParkerBritt?tab=repositories&q=&type=&language=python&sort="><img src="https://parkerbritt.com/badge?label=python&icon=python&color=3776AB"></a>
-  <a href="https://github.com/ParkerBritt?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://parkerbritt.com/badge?label=C%2B%2B&icon=cpp&color=00599C"></a>
+  <a href="https://github.com/ParkerBritt?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://parkerbritt.com/badge?label=C%2B%2B&icon=cplusplus&color=00599C"></a>
   <a href="https://github.com/ParkerBritt/dotfiles"><img src="https://parkerbritt.com/badge?label=linux&icon=linux&color=10B981"></a>
 
 </div>
