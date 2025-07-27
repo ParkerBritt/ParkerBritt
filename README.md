@@ -35,7 +35,7 @@
 
 <br>
 <div align="center"> 
-  <a href="https://github.com/ParkerBritt?tab=repositories"><img src="https://parkerbritt.com/badge?label=see%20more&color=1e2136"></a>
+  <a href="https://github.com/ParkerBritt?tab=repositories"><img src="https://parkerbritt.com/badge?label=more%20repos&color=1e2136"></a>
 </div>
 
 
