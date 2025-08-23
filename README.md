@@ -11,7 +11,7 @@
 
 <h2>🎥 About Me</h2>
 <div align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;I am a <strong>technical artist</strong> and <strong>programmer</strong> pursuing my master's of science at Bournemouth University,
+  &nbsp;&nbsp;&nbsp;&nbsp;I am a <strong>technical artist</strong> and <strong>programmer</strong>, recently having completed my Master's of science at Bournemouth University,
   specializing in <strong>procedural effects, software development,</strong> and <strong>DCC tool creation.</strong><br><br>
 
   &nbsp;&nbsp;&nbsp;&nbsp;Beyond VFX, I have a strong interest in open-source software and [Linux](https://github.com/ParkerBritt/dotfiles),
