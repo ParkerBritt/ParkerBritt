@@ -23,6 +23,8 @@
   <a href="https://github.com/ParkerBritt/enzo"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=enzo&theme=tokyonight&hide_border=true&border_radius=20"/></a>
   <a href="https://github.com/ParkerBritt/website"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=parkerbritt&repo=website&theme=tokyonight&hide_border=true&border_radius=20"/></a>
 </div>
+  <a href="https://github.com/ewanp-dev/usd-dependency-viewer"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=ewanp-dev&repo=usd-dependency-viewer&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+</div>
 
 
 <h2>⚙️ Previous Projects</h2>
