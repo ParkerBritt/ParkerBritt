@@ -11,7 +11,7 @@
 
 <h2>🎥 About Me</h2>
 <div align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;I am a <strong>pipeline TD</strong> and <strong>developer</strong>, recently having completed my MSc at Bournemouth University. I also enjoy building procedural models and tools in SideFX Houdini.</strong><br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;I am a <strong>pipeline TD</strong> and <strong>developer</strong> at One of Us. I also enjoy building procedural models and tools in SideFX Houdini.</strong><br><br>
 
   &nbsp;&nbsp;&nbsp;&nbsp;Beyond VFX, I have a strong interest in open-source software and [Linux](https://github.com/ParkerBritt/dotfiles),
   regularly exploring technologies that contribute to both my professional and personal projects.
