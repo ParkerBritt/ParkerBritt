@@ -11,7 +11,7 @@
 
 <h2>🎥 About Me</h2>
 <div align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;I am a <strong>pipeline TD</strong> and <strong>developer</strong> with a focus on Houdini and USD, working at One of Us. I enjoy building pipeline tools, standalone software, and working on other tech projects in my free time.<br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;I am a <strong>pipeline TD</strong> and <strong>developer</strong> with a focus on Houdini and USD, working at One of Us. I enjoy building pipeline tools, standalone software, UIs, and working on other tech projects in my free time.<br><br>
 
   &nbsp;&nbsp;&nbsp;&nbsp;Beyond VFX, I have a strong interest in open-source software, [Linux](https://github.com/ParkerBritt/dotfiles), and homelabbing.
 </div>
