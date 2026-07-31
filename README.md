@@ -38,8 +38,8 @@
 
 <h2>💾 Stats</h2>
 <div>
-    <a href="https://github.com/ParkerBritt?tab=repositories"><img height="180em" src="https://cards.parkerbritt.com/streak-stats/?user=ParkerBritt&theme=tokyonight&hide_border=true&border_radius=20&card_width=455em"/></a>
-    <a href="https://github.com/ParkerBritt?tab=repositories"><img height="180em" src="https://git-readme-stats.parkerbritt.com/api/top-langs/?username=parkerbritt&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&border_radius=20&hide_title&card_width=386em"/></a>
+    <a href="https://github.com/ParkerBritt?tab=repositories"><img height="180em" src="https://cards.parkerbritt.com/streak"/></a>
+    <a href="https://github.com/ParkerBritt?tab=repositories"><img height="180em" src="https://cards.parkerbritt.com/languages"/></a>
 </div>
 
 
