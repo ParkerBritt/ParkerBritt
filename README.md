@@ -18,8 +18,8 @@
 
 <h2>💻 Currently Working On</h2>
 <div>
-  <a href="https://github.com/ParkerBritt/enzo"><img align="center" width="421em" src="https://git-readme-stats.parkerbritt.com/api/pin/?username=parkerbritt&repo=enzo&theme=tokyonight&hide_border=true&border_radius=20"/></a>
-  <a href="https://github.com/ParkerBritt/website"><img align="center" width="421em" src="https://git-readme-stats.parkerbritt.com/api/pin/?username=parkerbritt&repo=website&theme=tokyonight&hide_border=true&border_radius=20"/></a>
+  <a href="https://github.com/ParkerBritt/enzo"><img align="center" width="421em" src="https://cards.parkerbritt.com/repo?title=Enzo&repo=enzo"/></a>
+  <a href="https://github.com/ParkerBritt/website"><img align="center" width="421em" src="https://cards.parkerbritt.com/repo?title=Portfolio+Website&repo=website"/></a>
 </div>
 
 
