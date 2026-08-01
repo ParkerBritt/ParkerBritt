@@ -1,4 +1,6 @@
-<img src="https://cards.parkerbritt.com/terminal_hero">
+<div align="center">
+  <img src="https://cards.parkerbritt.com/terminal_hero">
+</div>
 
 <h2>🎥 About Me</h2>
 <div align="justify">
