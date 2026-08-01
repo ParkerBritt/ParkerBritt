@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cards.parkerbritt.com/terminal_hero">
+  <img width="842em" src="https://cards.parkerbritt.com/terminal_hero">
 </div>
 
 <h2>🎥 About Me</h2>
