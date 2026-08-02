@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="842em" src="https://cards.parkerbritt.com/terminal_hero">
+  <img src="https://cards.parkerbritt.com/terminal_hero">
 </div>
 
 <img src="https://cards.parkerbritt.com/divider?label=01+-+About+Me">
