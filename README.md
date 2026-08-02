@@ -4,9 +4,9 @@
 
 <img src="https://cards.parkerbritt.com/divider?label=01+-+About+Me">
 <div align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;I am a developer and VFX technical artist with a focus on Houdini and USD. I enjoy building pipeline tools, standalone software, UIs, and working on other tech projects in my free time.<br><br>
+  I am a developer and VFX technical artist with a focus on Houdini and USD. I enjoy building pipeline tools, standalone software, UIs, and working on other tech projects in my free time.<br><br>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;Beyond VFX, I have a strong interest in open-source software, [Linux](https://github.com/ParkerBritt/dotfiles), and homelabbing.
+  Beyond VFX, I have a strong interest in open-source software, [Linux](https://github.com/ParkerBritt/dotfiles), and homelabbing.
 </div>
 
 <img src="https://cards.parkerbritt.com/divider?label=02+-+Currently+Working+On">
