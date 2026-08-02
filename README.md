@@ -1,9 +1,9 @@
 <!-- Hero terminal -->
 <img align="center" src="https://cards.parkerbritt.com/terminal_hero">
 <!-- repo + website buttons -->
-<div align="left"> 
+<div align="center"> 
   <a href="https://github.com/ParkerBritt?tab=repositories"><img src="https://cards.parkerbritt.com/button?label=Repos"></a>
-  <a href="https://parkerbritt.com"><img align="right" src="https://cards.parkerbritt.com/button?label=Website"></a>
+  <a href="https://parkerbritt.com"><img src="https://cards.parkerbritt.com/button?label=Website"></a>
 </div>
 
 <!-- Section: About Me -->
