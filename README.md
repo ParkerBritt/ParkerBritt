@@ -23,8 +23,8 @@
 <!-- Section: Stats -->
 <img src="https://cards.parkerbritt.com/divider?label=03+-+Stats&line_length=300">
 <div>
-    <a href="https://github.com/ParkerBritt?tab=repositories"><img height="180em" src="https://cards.parkerbritt.com/streak"/></a>
-    <a href="https://github.com/ParkerBritt?tab=repositories"><img height="180em" src="https://cards.parkerbritt.com/languages"/></a>
+    <a href="https://github.com/ParkerBritt?tab=repositories"><img src="https://cards.parkerbritt.com/streak"/></a>
+    <a href="https://github.com/ParkerBritt?tab=repositories"><img src="https://cards.parkerbritt.com/languages"/></a>
 </div>
 
 
