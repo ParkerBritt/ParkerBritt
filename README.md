@@ -1,5 +1,5 @@
 <!-- Hero terminal -->
-<img align="center" src="https://cards.parkerbritt.com/terminal_hero">
+<a href="https://parkerbritt.com"><img align="center" src="https://cards.parkerbritt.com/terminal_hero"></a>
 <!-- repo + website buttons -->
 <div align="center"> 
   <a href="https://repos.parkerbritt.com"><img src="https://cards.parkerbritt.com/button?label=Repos&icon=github"></a>
